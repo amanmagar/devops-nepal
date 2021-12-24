@@ -50,6 +50,8 @@ I am Aman Samal Magar, a student based in Kathmandu learning about "DevOps".
 I find it very hard to learn devops and find  being used in Nepal. 
 So I am working for collabration among the fellow students and the professionals for a better learning platform and resources in Nepal. 
 
-***Get to know through***
+***Get to know me through***
 
 [LinkedIn](https://www.linkedin.com/in/asm0011/)
+
+[Go to Top](#devops-nepal)
